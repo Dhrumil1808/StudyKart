@@ -1,0 +1,182 @@
+[Fri Mar 27 05:52:21 2015] [notice] Apache/2.2.22 (Win64) PHP/5.3.13 configured -- resuming normal operations
+[Fri Mar 27 05:52:21 2015] [notice] Server built: May 13 2012 19:41:17
+[Fri Mar 27 05:52:21 2015] [notice] Parent: Created child process 1704
+[Fri Mar 27 05:52:21 2015] [notice] Child 1704: Child process is running
+[Fri Mar 27 05:52:21 2015] [notice] Child 1704: Acquired the start mutex.
+[Fri Mar 27 05:52:21 2015] [notice] Child 1704: Starting 64 worker threads.
+[Fri Mar 27 05:52:21 2015] [notice] Child 1704: Starting thread to listen on port 80.
+[Fri Mar 27 05:52:21 2015] [notice] Child 1704: Starting thread to listen on port 80.
+[Fri Mar 27 06:00:11 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:11 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:12 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:12 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:12 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:12 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:12 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:13 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:14 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:14 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:14 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:16 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:16 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:17 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:18 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:19 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:20 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:22 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:23 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:23 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:24 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:00:27 2015] [error] [client 10.100.70.53] Client sent malformed Host header
+[Fri Mar 27 06:01:26 2015] [error] [client 127.0.0.1] Client sent malformed Host header
+[Fri Mar 27 06:01:26 2015] [error] [client 10.100.70.53] client denied by server configuration: C:/wamp/www/
+[Fri Mar 27 06:09:55 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Fri Mar 27 06:13:56 2015] [error] [client 10.100.70.53] client denied by server configuration: C:/wamp/www/
+[Fri Mar 27 06:13:56 2015] [error] [client 127.0.0.1] Client sent malformed Host header
+[Fri Mar 27 06:15:33 2015] [error] [client 192.168.142.1] client denied by server configuration: C:/wamp/www/
+[Fri Mar 27 06:24:33 2015] [error] [client 127.0.0.1] script 'C:/wamp/www/Init_test/index1.php' not found or unable to stat, referer: http://127.0.0.1/Init_test/
+[Fri Mar 27 23:18:44 2015] [warn] pid file C:/wamp/bin/apache/apache2.2.22/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Mar 27 23:18:44 2015] [notice] Apache/2.2.22 (Win64) PHP/5.3.13 configured -- resuming normal operations
+[Fri Mar 27 23:18:44 2015] [notice] Server built: May 13 2012 19:41:17
+[Fri Mar 27 23:18:44 2015] [notice] Parent: Created child process 2500
+[Fri Mar 27 23:18:45 2015] [notice] Child 2500: Child process is running
+[Fri Mar 27 23:18:45 2015] [notice] Child 2500: Acquired the start mutex.
+[Fri Mar 27 23:18:45 2015] [notice] Child 2500: Starting 64 worker threads.
+[Fri Mar 27 23:18:45 2015] [notice] Child 2500: Starting thread to listen on port 80.
+[Fri Mar 27 23:18:45 2015] [notice] Child 2500: Starting thread to listen on port 80.
+[Sat Mar 28 03:27:21 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 28 03:42:18 2015] [error] [client 127.0.0.1] PHP Fatal error:  Class 'Sign_upmodel' not found in C:\\wamp\\www\\CodeIgniter_2.2.0\\system\\core\\Loader.php on line 303
+[Sat Mar 28 03:42:18 2015] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 28 03:42:18 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0
+[Sat Mar 28 03:42:18 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202
+[Sat Mar 28 03:42:18 2015] [error] [client 127.0.0.1] PHP   3. call_user_func_array() C:\\wamp\\www\\CodeIgniter_2.2.0\\system\\core\\CodeIgniter.php:359
+[Sat Mar 28 03:42:18 2015] [error] [client 127.0.0.1] PHP   4. Sign_Up->take_entries() C:\\wamp\\www\\CodeIgniter_2.2.0\\system\\core\\CodeIgniter.php:359
+[Sat Mar 28 03:42:18 2015] [error] [client 127.0.0.1] PHP   5. CI_Loader->model() C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php:22
+[Sat Mar 28 04:20:39 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE in C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php on line 26
+[Sat Mar 28 04:20:39 2015] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 28 04:20:39 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0
+[Sat Mar 28 04:20:39 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202
+[Sat Mar 28 04:36:36 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '.', expecting ']' in C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php on line 31
+[Sat Mar 28 04:36:36 2015] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 28 04:36:36 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0
+[Sat Mar 28 04:36:36 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202
+[Sat Mar 28 04:38:49 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '<' in C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php on line 32
+[Sat Mar 28 04:38:49 2015] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 28 04:38:49 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0
+[Sat Mar 28 04:38:49 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202
+[Sat Mar 28 04:38:49 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 28 04:38:50 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '<' in C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php on line 32
+[Sat Mar 28 04:38:50 2015] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 28 04:38:50 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0
+[Sat Mar 28 04:38:50 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202
+[Sat Mar 28 04:38:51 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '<' in C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php on line 32
+[Sat Mar 28 04:38:51 2015] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 28 04:38:51 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0
+[Sat Mar 28 04:38:51 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202
+[Sat Mar 28 04:38:51 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '<' in C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php on line 32
+[Sat Mar 28 04:38:51 2015] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 28 04:38:51 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0
+[Sat Mar 28 04:38:51 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202
+[Sat Mar 28 04:43:50 2015] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function post() in C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php on line 32
+[Sat Mar 28 04:43:50 2015] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 28 04:43:50 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0
+[Sat Mar 28 04:43:50 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202
+[Sat Mar 28 04:43:50 2015] [error] [client 127.0.0.1] PHP   3. call_user_func_array() C:\\wamp\\www\\CodeIgniter_2.2.0\\system\\core\\CodeIgniter.php:359
+[Sat Mar 28 04:43:50 2015] [error] [client 127.0.0.1] PHP   4. Sign_Up->take_entries() C:\\wamp\\www\\CodeIgniter_2.2.0\\system\\core\\CodeIgniter.php:359
+[Sat Mar 28 04:46:37 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '}' in C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php on line 31
+[Sat Mar 28 04:46:37 2015] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 28 04:46:37 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0
+[Sat Mar 28 04:46:37 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202
+[Sat Mar 28 04:48:42 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '}' in C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php on line 31
+[Sat Mar 28 04:48:42 2015] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 28 04:48:42 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0
+[Sat Mar 28 04:48:42 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202
+[Sat Mar 28 04:48:45 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '}' in C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php on line 31
+[Sat Mar 28 04:48:45 2015] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 28 04:48:45 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0
+[Sat Mar 28 04:48:45 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202
+[Sat Mar 28 04:48:46 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '}' in C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php on line 31
+[Sat Mar 28 04:48:46 2015] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 28 04:48:46 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0
+[Sat Mar 28 04:48:46 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202
+[Sat Mar 28 04:48:46 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '}' in C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php on line 31
+[Sat Mar 28 04:48:46 2015] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 28 04:48:46 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0
+[Sat Mar 28 04:48:46 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202
+[Sat Mar 28 04:48:46 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '}' in C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php on line 31
+[Sat Mar 28 04:48:46 2015] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 28 04:48:46 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0
+[Sat Mar 28 04:48:46 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202
+[Sat Mar 28 04:57:44 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '<' in C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php on line 26
+[Sat Mar 28 04:57:44 2015] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 28 04:57:44 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0
+[Sat Mar 28 04:57:44 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202
+[Sat Mar 28 08:52:50 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_STRING in C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\views\\take_entries.php on line 16
+[Sat Mar 28 08:52:50 2015] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 28 08:52:50 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0
+[Sat Mar 28 08:52:50 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202
+[Sat Mar 28 08:52:50 2015] [error] [client 127.0.0.1] PHP   3. call_user_func_array() C:\\wamp\\www\\CodeIgniter_2.2.0\\system\\core\\CodeIgniter.php:359
+[Sat Mar 28 08:52:50 2015] [error] [client 127.0.0.1] PHP   4. Sign_Up->take_entries() C:\\wamp\\www\\CodeIgniter_2.2.0\\system\\core\\CodeIgniter.php:359
+[Sat Mar 28 08:52:50 2015] [error] [client 127.0.0.1] PHP   5. CI_Loader->view() C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php:24
+[Sat Mar 28 08:52:50 2015] [error] [client 127.0.0.1] PHP   6. CI_Loader->_ci_load() C:\\wamp\\www\\CodeIgniter_2.2.0\\system\\core\\Loader.php:419
+[Sat Mar 28 08:57:17 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected '=' in C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php on line 12
+[Sat Mar 28 08:57:17 2015] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 28 08:57:17 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0
+[Sat Mar 28 08:57:17 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202
+[Sat Mar 28 11:16:11 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE in C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php on line 17
+[Sat Mar 28 11:16:11 2015] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 28 11:16:11 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0
+[Sat Mar 28 11:16:11 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202
+[Sat Mar 28 12:25:46 2015] [warn] pid file C:/wamp/bin/apache/apache2.2.22/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 28 12:25:47 2015] [notice] Apache/2.2.22 (Win64) PHP/5.3.13 configured -- resuming normal operations
+[Sat Mar 28 12:25:47 2015] [notice] Server built: May 13 2012 19:41:17
+[Sat Mar 28 12:25:47 2015] [notice] Parent: Created child process 5060
+[Sat Mar 28 12:25:47 2015] [notice] Child 5060: Child process is running
+[Sat Mar 28 12:25:47 2015] [notice] Child 5060: Acquired the start mutex.
+[Sat Mar 28 12:25:47 2015] [notice] Child 5060: Starting 64 worker threads.
+[Sat Mar 28 12:25:47 2015] [notice] Child 5060: Starting thread to listen on port 80.
+[Sat Mar 28 12:25:47 2015] [notice] Child 5060: Starting thread to listen on port 80.
+[Sat Mar 28 12:26:24 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 28 12:26:24 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
+[Sat Mar 28 12:30:37 2015] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\views\\take_entries.php on line 23
+[Sat Mar 28 12:30:37 2015] [error] [client 127.0.0.1] PHP Stack trace:
+[Sat Mar 28 12:30:37 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0
+[Sat Mar 28 12:30:37 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202
+[Sat Mar 28 12:30:37 2015] [error] [client 127.0.0.1] PHP   3. call_user_func_array() C:\\wamp\\www\\CodeIgniter_2.2.0\\system\\core\\CodeIgniter.php:359
+[Sat Mar 28 12:30:37 2015] [error] [client 127.0.0.1] PHP   4. Sign_Up->take_entries() C:\\wamp\\www\\CodeIgniter_2.2.0\\system\\core\\CodeIgniter.php:359
+[Sat Mar 28 12:30:37 2015] [error] [client 127.0.0.1] PHP   5. CI_Loader->view() C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php:17
+[Sat Mar 28 12:30:37 2015] [error] [client 127.0.0.1] PHP   6. CI_Loader->_ci_load() C:\\wamp\\www\\CodeIgniter_2.2.0\\system\\core\\Loader.php:419
+[Sat Mar 28 12:35:03 2015] [error] [client 127.0.0.1] Client sent malformed Host header
+[Sat Mar 28 13:42:22 2015] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function insert() on a non-object in C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php on line 35, referer: http://127.0.0.1/CodeIgniter_2.2.0/index.php/sign_up/take_entries
+[Sat Mar 28 13:42:22 2015] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://127.0.0.1/CodeIgniter_2.2.0/index.php/sign_up/take_entries
+[Sat Mar 28 13:42:22 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0, referer: http://127.0.0.1/CodeIgniter_2.2.0/index.php/sign_up/take_entries
+[Sat Mar 28 13:42:22 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202, referer: http://127.0.0.1/CodeIgniter_2.2.0/index.php/sign_up/take_entries
+[Sat Mar 28 13:42:22 2015] [error] [client 127.0.0.1] PHP   3. call_user_func_array() C:\\wamp\\www\\CodeIgniter_2.2.0\\system\\core\\CodeIgniter.php:359, referer: http://127.0.0.1/CodeIgniter_2.2.0/index.php/sign_up/take_entries
+[Sat Mar 28 13:42:22 2015] [error] [client 127.0.0.1] PHP   4. Sign_Up->insert_data() C:\\wamp\\www\\CodeIgniter_2.2.0\\system\\core\\CodeIgniter.php:359, referer: http://127.0.0.1/CodeIgniter_2.2.0/index.php/sign_up/take_entries
+[Sat Mar 28 13:44:25 2015] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function insert() on a non-object in C:\\wamp\\www\\CodeIgniter_2.2.0\\application\\controllers\\sign_up.php on line 35, referer: http://127.0.0.1/CodeIgniter_2.2.0/index.php/sign_up/take_entries
+[Sat Mar 28 13:44:25 2015] [error] [client 127.0.0.1] PHP Stack trace:, referer: http://127.0.0.1/CodeIgniter_2.2.0/index.php/sign_up/take_entries
+[Sat Mar 28 13:44:25 2015] [error] [client 127.0.0.1] PHP   1. {main}() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:0, referer: http://127.0.0.1/CodeIgniter_2.2.0/index.php/sign_up/take_entries
+[Sat Mar 28 13:44:25 2015] [error] [client 127.0.0.1] PHP   2. require_once() C:\\wamp\\www\\CodeIgniter_2.2.0\\index.php:202, referer: http://127.0.0.1/CodeIgniter_2.2.0/index.php/sign_up/take_entries
+[Sat Mar 28 13:44:25 2015] [error] [client 127.0.0.1] PHP   3. call_user_func_array() C:\\wamp\\www\\CodeIgniter_2.2.0\\system\\core\\CodeIgniter.php:359, referer: http://127.0.0.1/CodeIgniter_2.2.0/index.php/sign_up/take_entries
+[Sat Mar 28 13:44:25 2015] [error] [client 127.0.0.1] PHP   4. Sign_Up->insert_data() C:\\wamp\\www\\CodeIgniter_2.2.0\\system\\core\\CodeIgniter.php:359, referer: http://127.0.0.1/CodeIgniter_2.2.0/index.php/sign_up/take_entries
+[Sat Mar 28 14:31:51 2015] [error] [client 127.0.0.1] Client sent malformed Host header
+[Sat Mar 28 14:41:12 2015] [error] [client 192.168.142.1] Client sent malformed Host header
+[Sat Mar 28 14:41:16 2015] [error] [client 192.168.142.1] Client sent malformed Host header
+[Sat Mar 28 14:41:21 2015] [error] [client 192.168.142.1] Client sent malformed Host header
+[Sat Mar 28 14:54:34 2015] [error] [client 127.0.0.1] Client sent malformed Host header
+[Sat Mar 28 15:13:00 2015] [error] [client 127.0.0.1] Client sent malformed Host header
+[Sat Mar 28 15:26:17 2015] [error] [client 127.0.0.1] Client sent malformed Host header
+[Sat Mar 28 15:43:16 2015] [error] [client 127.0.0.1] Client sent malformed Host header
+[Sat Mar 28 15:51:02 2015] [error] [client 127.0.0.1] Client sent malformed Host header
+[Sat Mar 28 15:54:55 2015] [error] [client 127.0.0.1] Client sent malformed Host header
+[Sat Mar 28 15:54:57 2015] [error] [client 192.168.142.1] Client sent malformed Host header
+[Sun Mar 29 01:26:42 2015] [warn] pid file C:/wamp/bin/apache/apache2.2.22/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 29 01:26:43 2015] [notice] Apache/2.2.22 (Win64) PHP/5.3.13 configured -- resuming normal operations
+[Sun Mar 29 01:26:43 2015] [notice] Server built: May 13 2012 19:41:17
+[Sun Mar 29 01:26:43 2015] [notice] Parent: Created child process 6464
+[Sun Mar 29 01:26:43 2015] [notice] Child 6464: Child process is running
+[Sun Mar 29 01:26:43 2015] [notice] Child 6464: Acquired the start mutex.
+[Sun Mar 29 01:26:43 2015] [notice] Child 6464: Starting 64 worker threads.
+[Sun Mar 29 01:26:43 2015] [notice] Child 6464: Starting thread to listen on port 80.
+[Sun Mar 29 01:26:43 2015] [notice] Child 6464: Starting thread to listen on port 80.
+[Sun Mar 29 01:42:09 2015] [error] [client 127.0.0.1] File does not exist: C:/wamp/www/favicon.ico
